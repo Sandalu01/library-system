@@ -1,0 +1,12 @@
+C:\Users\Sandalu\Desktop\c#\New folder\CA_02_VP\CA_02_VP\bin\Debug\books.mdf
+C:\Users\Sandalu\Desktop\c#\New folder\CA_02_VP\CA_02_VP\bin\Debug\books_log.ldf
+C:\Users\Sandalu\Desktop\c#\New folder\CA_02_VP\CA_02_VP\bin\Debug\CA_02_VP.exe.config
+C:\Users\Sandalu\Desktop\c#\New folder\CA_02_VP\CA_02_VP\bin\Debug\CA_02_VP.exe
+C:\Users\Sandalu\Desktop\c#\New folder\CA_02_VP\CA_02_VP\bin\Debug\CA_02_VP.pdb
+C:\Users\Sandalu\Desktop\c#\New folder\CA_02_VP\CA_02_VP\obj\Debug\CA_02_VP.csproj.AssemblyReference.cache
+C:\Users\Sandalu\Desktop\c#\New folder\CA_02_VP\CA_02_VP\obj\Debug\CA_02_VP.Form1.resources
+C:\Users\Sandalu\Desktop\c#\New folder\CA_02_VP\CA_02_VP\obj\Debug\CA_02_VP.Properties.Resources.resources
+C:\Users\Sandalu\Desktop\c#\New folder\CA_02_VP\CA_02_VP\obj\Debug\CA_02_VP.csproj.GenerateResource.cache
+C:\Users\Sandalu\Desktop\c#\New folder\CA_02_VP\CA_02_VP\obj\Debug\CA_02_VP.csproj.CoreCompileInputs.cache
+C:\Users\Sandalu\Desktop\c#\New folder\CA_02_VP\CA_02_VP\obj\Debug\CA_02_VP.exe
+C:\Users\Sandalu\Desktop\c#\New folder\CA_02_VP\CA_02_VP\obj\Debug\CA_02_VP.pdb
